@@ -2,8 +2,9 @@
 
 using namespace std;
 
-struct gara {
+struct {
     int data;
     int oraInizio;
     int pisteDisponibili;
-}
+    int alteti;
+} gara;
